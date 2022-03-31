@@ -2,6 +2,7 @@ Projeto backend em Java referente ao case da ITSS-Tecnologia
 
 ### Tecnologias:
 
+ * Java 17
  * Spring Boot
  * Maven
  * JPA
@@ -19,4 +20,4 @@ Projeto backend em Java referente ao case da ITSS-Tecnologia
  * Rodar o projeto Spring Boot 
     ### mvn spring-boot:run
 
- * Acessar o sistema: http://localhost:8080/
+ * Endereço da API: http://localhost:8080/
