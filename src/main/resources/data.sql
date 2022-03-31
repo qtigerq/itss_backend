@@ -1,0 +1,1 @@
+INSERT INTO USER (id, name, cpf, birthdate, cel, phone, email, emailalert, zipcode, street, number, district, state, city) VALUES (1, 'Rafael Silva', '038.782.938-90', '02/12/1990', '(44) 99185-9893', '(44) 3028-3090', 'rafaelsilva@gmail.com', true, '87050-220', 'Av. Brasil', '2041', 'Centro', 'Rio de Janeiro', 'Angra dos Reis');
