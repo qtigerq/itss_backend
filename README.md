@@ -16,7 +16,7 @@ Projeto backend em Java referente ao case da ITSS-Tecnologia
  * Instalar todas as dependencias indicada pelo package.json
     ### mvn clean install
 
- * Rodar o projeto React 
+ * Rodar o projeto Spring Boot 
     ### mvn spring-boot:run
 
  * Acessar o sistema: http://localhost:8080/
